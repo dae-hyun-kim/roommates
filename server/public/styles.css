@@ -227,3 +227,7 @@ p {
 .add-food-font-size, .fridge-chat-font, .logout-font {
   font-size: 1.3em;
 }
+
+.center-img {
+  text-align: center;
+}

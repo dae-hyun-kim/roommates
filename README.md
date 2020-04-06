@@ -34,6 +34,6 @@ Try the application at <a href="https://roommates.danny-dae-kim.com/">https://ro
 </ul>
 
 # Preview
-<div class="text-center">
+<div class="center-img">
   <img src="./server/public/images/roommates.gif" alt="roommates app preview">
 </div>
