@@ -37,3 +37,35 @@ Try the application at <a href="https://roommates.danny-dae-kim.com/">https://ro
 <div class="center-img">
   <img src="./server/public/images/roommates.gif" alt="roommates app preview">
 </div>
+
+# Development
+### System Requirements
+- Node.js 10 or higher
+- NPM 6 or higher
+- PostgreSQL 10 or higher
+- Express 4 or higher
+
+### Getting Started
+1. Clone the repository.
+
+  ```shell
+  git clone https://github.com/dae-hyun-kim/roommates
+  cd roommates
+  ```
+
+2. Install all dependencies with NPM.
+  ```shell
+  npm install
+  ```
+
+3. Import the example database to the PostgreSQL database.
+
+  ```shell
+  npm run db:import
+  ```
+
+4. Start the project. After starting, you can view the application by opening http://localhost:3000 in your browser.
+
+  ```shell
+  npm run dev
+  ```
